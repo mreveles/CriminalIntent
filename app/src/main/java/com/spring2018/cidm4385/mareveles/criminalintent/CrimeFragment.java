@@ -2,6 +2,7 @@ package com.spring2018.cidm4385.mareveles.criminalintent;
 
 import android.os.Bundle;
 import android.app.Activity;
+//changed android.support.v4.app.Fragment to android.app.Fragment
 import android.app.Fragment;
 import android.text.Editable;
 import android.text.TextWatcher;
